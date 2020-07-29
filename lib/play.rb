@@ -36,5 +36,6 @@ def turn(board)
 end
 
 def play(board)
+  game = 9
   
 end  
